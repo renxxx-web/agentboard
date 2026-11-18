@@ -9,8 +9,8 @@
 // the interface loads, but on-chain reads/writes are disabled.
 // ============================================================
 const CONFIG = {
-  CONTRACT_ADDRESS: "0x3fdd5179ac486150416ba3abf5f95c00116941ae", // PLACEHOLDER — replace after deployment
-  EVENT_FROM_BLOCK: 134311441, // PLACEHOLDER — replace with the deployment block
+  CONTRACT_ADDRESS: "0x3fdd5179ac486150416ba3abf5f95c00116941ae", // deployed on BNB Smart Chain (block 134311441)
+  EVENT_FROM_BLOCK: 134311441, // deployment block
 
   // Agent ID registry (real, BSC mainnet) — do not change.
   REGISTRY_ADDRESS: "0x60B9262456dE011F7d15a54CdD8c48bAaa8B022F",
